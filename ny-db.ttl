@@ -10,7 +10,7 @@ ja:MemoryDataset  rdfs:subClassOf  ja:RDFDataset .
 
 :tdb_dataset_readwrite
         rdf:type       tdb2:DatasetTDB2;
-        tdb2:location  "C:/Users/alkc/OneDrive - Ramboll/Desktop/codingProjects/revitToWebWithLinkedData/Orchestrator-Service/fuseki/apache-jena-fuseki-4.2.0/run/configuration/ny-db" .
+        tdb2:location  "yourPath/apache-jena-fuseki-yourVersion/run/configuration/ny-db" .
 
 ja:RDFDatasetOne  rdfs:subClassOf  ja:RDFDataset .
 
